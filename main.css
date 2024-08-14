@@ -11,13 +11,13 @@ h1, h2 {
 }
 
 p {
-  text-align: justify;
+  text-align: center;
   color: white;
 }
 
 .post {
   margin: 5%;
-  background-color: brown;
+  background-color: blue;
 }
 
 .header {
