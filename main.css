@@ -1,0 +1,16 @@
+.container{
+    display: grid;
+    justify-content: center;
+    margin: auto;
+    background-color: brown;
+}
+
+h1{
+    color: wheat;
+    text-align: center;
+}
+
+p{
+    text-align: center;   
+    color: white;
+}
