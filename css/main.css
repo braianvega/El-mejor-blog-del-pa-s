@@ -49,3 +49,15 @@ p {
   height: 1.8rem;
   margin-left: 1.5%;
 }
+.footer{
+  display: flex;
+  justify-content: start;
+  background-color: #12a69f;
+}
+
+.footer p{
+  margin-left: 2.5%;
+  color: white;
+  font-size: small;
+}
+
