@@ -1,0 +1,30 @@
+.container {
+  display: grid;
+  justify-content: center;
+  margin: auto;
+  width: 100%;
+}
+
+h1, h2 {
+  color: wheat;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  color: white;
+}
+
+.post {
+  margin: 5%;
+  background-color: chocolate;
+}
+
+.header {
+  text-align: center;
+  margin: 5%;
+  font: small-caps bold 24px/1 sans-serif;
+  background: #12a69f;
+  box-shadow: 3px 4px 20px 0px rgba(18, 166, 159, 1);
+}
+
