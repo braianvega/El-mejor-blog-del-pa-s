@@ -45,3 +45,15 @@ p {
   box-shadow: 1px 1px 15px 0.1px rgba(18, 166, 159, 1);
 }
 
+.footer{
+  display: flex;
+  justify-content: start;
+  background-color: #12a69f;
+}
+
+.footer p{
+  margin-left: 2.5%;
+  color: white;
+  font-size: small;
+}
+
