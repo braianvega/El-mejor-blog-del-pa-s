@@ -14,13 +14,12 @@
 .superBlog{
   color: white;
   font: small-caps bold 1.8rem/1 sans-serif;
-  align-content: center;
   margin-inline: 2.5%;
 }
 
 .tittle{
   color: white;
-  font: 1.8rem "Fira Sans", sans-serif;
+  font: 1.3rem "Fira Sans", sans-serif;
 }
 
 h2{
@@ -43,5 +42,10 @@ p {
   display: flex;
   background: #12a69f;
   box-shadow: 1px 1px 15px 0.1px rgba(18, 166, 159, 1);
+  align-items: center;
 }
 
+.logo{
+  height: 1.8rem;
+  margin-left: 1.5%;
+}
