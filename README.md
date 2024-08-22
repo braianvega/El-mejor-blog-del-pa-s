@@ -5,5 +5,5 @@
 ![](https://book.git-scm.com/downloads/logos)
 #### Bienvenidos, pueden realizar pull request si desean
 #### Incluye una bomita interfaz, aunque muy humilde
-
+#### Disponible para todos
 
